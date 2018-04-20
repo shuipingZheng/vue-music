@@ -21,8 +21,7 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-![](/vue-music/static/image/20180416172201.png)
+![](https://github.com/shuipingZheng/vue-music/static/image/20180416172201.png)
 ![](https://github.com/shuipingZheng/vue-music/static/image/20180416172241.png)
 ![](https://github.com/shuipingZheng/vue-music/static/image/20180416172233.png)
 ![](https://github.com/shuipingZheng/vue-music/static/image/20180416172223.png)
