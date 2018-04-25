@@ -29,3 +29,9 @@ npm run build --report
 ![](https://github.com/shuipingZheng/vue-music/blob/master/static/image/20180416172223.png)
 ![](https://github.com/shuipingZheng/vue-music/blob/master/static/image/20180416172250.png)
 ![](https://github.com/shuipingZheng/vue-music/blob/master/static/image/20180416172259.png)
+
+#访问地址： https://shuipingzheng.github.io
+
+#移动端扫描二维码
+
+![](https://github.com/shuipingZheng/vue-music/blob/master/static/image/1524624056.png)
